@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mmadhavands
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ML/AI
+- 💞️ I’m looking to collaborate on Data and Cloud Engineering
 - 📫 How to reach me madhavan.murugans@gmail.com
 
 <!---
